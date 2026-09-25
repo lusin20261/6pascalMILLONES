@@ -1,0 +1,5 @@
+1:mi mamá
+2:mi papá
+3:mi hermano
+4:mi hermano menor
+5:mis abuelos
