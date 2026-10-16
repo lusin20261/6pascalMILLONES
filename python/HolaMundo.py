@@ -1,0 +1,15 @@
+print("daniela");
+print("mi nombre es kristel");
+a="hola";
+print(a);
+ab=2597531215;
+e=6768748567;
+print(ab+e);
+print(ab-e);
+print(ab*e);
+print(ab/e);
+print("-----------------------------------------");
+amigo=input("escribe tu nombre: ");
+juego=input("escribe tu juego fav :");
+color=input("color fav :");
+print("Hola" +amigo+"tu juego fav" +juego+"y tu color fav" +color);
